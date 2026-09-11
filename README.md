@@ -1,5 +1,5 @@
 ## Hello, I'm Luis Calderin 👋
-I'm a data science student at the University of Connecticut with an interest in healthcare analytics and practival technology solutions.
+I'm a data science student at the University of Connecticut with an interest in healthcare analytics and practical technology solutions.
 
 <!--
 **OPIM5512-luc06002/OPIM5512-luc06002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
