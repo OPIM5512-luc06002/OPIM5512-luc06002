@@ -1,7 +1,7 @@
 <img align="left" width="362" height="543" alt="48F931B3-E1CF-4E36-8297-784233547B77_1_105_c" src="https://github.com/user-attachments/assets/53458d14-ba7b-427a-bdca-ac99001a9771" />
 
 ## Hello 🌎 I'm Luis Calderin 
-I'm a data science student at the University of Connecticut with an interest in healthcare analytics and practical technology solutions.
+I work in healthcare data analytics, using data-driven insights to improve decision-making and patient outcomes. My background in medical laboratory science and molecular biology gives me a strong foundation for interpreting complex clinical and biological data.
 
 ### Education 🎓
 - Master of Science in Data Science - University of Connecticut
