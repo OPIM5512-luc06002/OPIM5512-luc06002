@@ -1,13 +1,15 @@
 ## Hello, I'm Luis Calderin 👋
 I'm a data science student at the University of Connecticut with an interest in healthcare analytics and practical technology solutions.
 
-### Education
+### Education :mortar_board:
 - Master of Science in Data Science - University of Connecticut
 Currently taking OPIM5512
 
 ### Skills I'm Learning
 ![Static Badge](https://img.shields.io/badge/Python-green)
 ![Static Badge](https://img.shields.io/badge/Machine-Learning-blue)
+![Static Badge](https://img.shields.io/badge/git-gray)
+![Static Badge](https://img.shields.io/badge/GitHub-purple)
 - Git, Github, and collaborative development
 - Python programming and data visualization
 - Machine learning and statistical analysis
