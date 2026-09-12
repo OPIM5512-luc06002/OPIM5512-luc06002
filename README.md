@@ -5,7 +5,7 @@ I work in healthcare data analytics, using data-driven insights to improve decis
 
 ### Education 🎓
 - Master of Science in Data Science - University of Connecticut
-Currently taking OPIM5512
+Currently taking OPIM5512 Data Science in Python and OPIM 5605 Data Visualization and COMM
 
 ### Skills I'm Learning
 ![Static Badge](https://img.shields.io/badge/Python-green)
