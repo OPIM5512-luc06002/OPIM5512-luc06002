@@ -1,9 +1,9 @@
 <img align="left" width="362" height="543" alt="48F931B3-E1CF-4E36-8297-784233547B77_1_105_c" src="https://github.com/user-attachments/assets/53458d14-ba7b-427a-bdca-ac99001a9771" />
 
-## Hello :earth_americas: I'm Luis Calderin 
+## Hello 🌎 I'm Luis Calderin 
 I'm a data science student at the University of Connecticut with an interest in healthcare analytics and practical technology solutions.
 
-### Education :mortar_board:
+### Education 🎓
 - Master of Science in Data Science - University of Connecticut
 Currently taking OPIM5512
 
@@ -17,7 +17,7 @@ Currently taking OPIM5512
 - Machine learning and statistical analysis
 
 ### Part scientist, part detective, always data-driven.
-:microscope: :magnifying_glass:
+🔬 🕵️‍♂️ 📈
 <!--
 **OPIM5512-luc06002/OPIM5512-luc06002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
