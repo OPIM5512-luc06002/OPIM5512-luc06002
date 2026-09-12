@@ -6,8 +6,8 @@ I'm a data science student at the University of Connecticut with an interest in 
 Currently taking OPIM5512
 
 ### Skills I'm Learning
-https://img.shields.io/badge/Python-green
- 
+![Static Badge](https://img.shields.io/badge/Python-green)
+
 - Git, Github, and collaborative development
 - Python programming and data visualization
 - Machine learning and statistical analysis
